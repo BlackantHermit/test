@@ -11,5 +11,5 @@ def request_view(response):  #显示需要爬取的页面
 
 import requests
 
-response = requests.get("https://www.baidu.com/")
+response = requests.get("https://www.souhu.com/")
 request_view(response)
